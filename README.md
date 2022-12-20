@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nishzsche
-- 👀 I’m interested in Chennai, India and I have been travelling around the North East of India while working remotely
-- 🌱 I’m currently learning ML Ops, NLP, Deep Learning, Statistics
+- 👀 I’m interested in Statistics, Machine Learning, Deep Learning, NLP, ML Ops
+- 🌱 I’m currently learning R for Data Science through Coursera
 - 💞️ I’m looking to collaborate on analysing and solving social problems through data
 - 📫 How to reach me nishanthrajamani@gmail.com
 
